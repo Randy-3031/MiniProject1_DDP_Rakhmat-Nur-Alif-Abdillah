@@ -1,1 +1,1 @@
-# MiniProject1_DDP_Rakhmat-Nur-Alif-Abdillah
+# MiniProject1_DDP_Rakhmat Nur Alif Abdillah
