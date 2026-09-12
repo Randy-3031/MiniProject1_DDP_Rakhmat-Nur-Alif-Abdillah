@@ -4,7 +4,7 @@ Nama : RAKHMAT NUR ALIF ABDIILAH <br>
 NIM : 2609116100
 
 # FLOWCHART Sistem Pendataan Unit Kerja Dokter & Perawat
-<img width="758" height="1032" alt="Flowchart MiniProjectDDP drawio" src="https://github.com/user-attachments/assets/abb6d664-d31f-468a-aa93-17b19a8cc7cc" />
+<img width="758" height="1197" alt="Flowchart MiniProjectDDP3 drawio" src="https://github.com/user-attachments/assets/2be0b9f9-49a2-46a1-a9c2-c5c9402be23f" />
 
 - Flowchart ini menggambarkan alur kerja sistem pendataan dokter dan perawat. Program dimulai dengan menampilkan menu, kemudian pengguna memilih proses yang diinginkan. Setiap pilihan memiliki proses yang berbeda, yaitu tambah, tampil, ubah, dan hapus data. Setelah proses selesai, program kembali ke menu utama. Jika pengguna memilih keluar, maka program akan berhenti.
 
